@@ -42,4 +42,4 @@ A Streamlit web application to classify chest X-ray images as 'NORMAL' or 'PNEUM
 
 ## Running the Application
 ```bash
-streamlit run app_custom_cnn.py
+streamlit run app.py
