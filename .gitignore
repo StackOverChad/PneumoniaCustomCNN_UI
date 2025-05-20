@@ -1,0 +1,28 @@
+# Python virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Streamlit specific (usually not necessary if venv is ignored)
+# .streamlit/
+
+# Kaggle working directory (if you accidentally save large outputs there and don't want them)
+# /kaggle/working/* 
+# !/kaggle/working/your_saved_model.keras # If you specifically want to include something from working
+
+# Logs (if you generated any TensorBoard logs locally)
+logs/
